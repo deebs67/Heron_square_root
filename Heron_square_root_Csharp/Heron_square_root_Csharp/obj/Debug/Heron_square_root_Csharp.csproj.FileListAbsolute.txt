@@ -1,0 +1,12 @@
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root_Csharp\Heron_square_root_Csharp\bin\Debug\Heron_square_root_Csharp.exe.config
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root_Csharp\Heron_square_root_Csharp\bin\Debug\Heron_square_root_Csharp.exe
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root_Csharp\Heron_square_root_Csharp\bin\Debug\Heron_square_root_Csharp.pdb
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root_Csharp\Heron_square_root_Csharp\obj\Debug\Heron_square_root_Csharp.csprojResolveAssemblyReference.cache
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root_Csharp\Heron_square_root_Csharp\obj\Debug\Heron_square_root_Csharp.exe
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root_Csharp\Heron_square_root_Csharp\obj\Debug\Heron_square_root_Csharp.pdb
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root\Heron_square_root_Csharp\Heron_square_root_Csharp\bin\Debug\Heron_square_root_Csharp.exe.config
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root\Heron_square_root_Csharp\Heron_square_root_Csharp\obj\Debug\Heron_square_root_Csharp.exe
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root\Heron_square_root_Csharp\Heron_square_root_Csharp\obj\Debug\Heron_square_root_Csharp.pdb
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root\Heron_square_root_Csharp\Heron_square_root_Csharp\bin\Debug\Heron_square_root_Csharp.exe
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root\Heron_square_root_Csharp\Heron_square_root_Csharp\bin\Debug\Heron_square_root_Csharp.pdb
+C:\Users\damian.bevan\Desktop\Programming_projects\Csharp\Heron_square_root\Heron_square_root_Csharp\Heron_square_root_Csharp\obj\Debug\Heron_square_root_Csharp.csprojResolveAssemblyReference.cache
